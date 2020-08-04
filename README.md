@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Araf Mustavi 
+
 
 <!--
 **arafMustavi/arafMustavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-### I'm Araf Mustavi 
 
 ## An undergrad student of Computer Science and Engineering!
 - Currently working on a blockchain project!
