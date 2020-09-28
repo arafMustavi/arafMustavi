@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ## I'm Araf Mustavi 
 ### An undergrad student of Computer Science and Engineering from BUET
-- 🔭 I’m currently working on a blockchain project's Front End Development!
-- 🌱 I’m currently learning Quantum Computing basics and AR-VR Development!
-- 👯 I’m looking to collaborate on Data Science Competitions
+- 🔭 I’m currently working on building a game in Unity 
+- 🌱 I’m currently learning Quantum Computing basics from Qiskit and AR-VR Development!
+- 👯 I’m looking to collaborate on Data Science Competitions. Attending courses on World Quant University
 - 🤔 I’m looking for help with Bangla Optical Character Recognition
 - 💬 Ask me about Blockchain based use-case
 - 📫 How to reach me: arafmustavi@gmail.com
