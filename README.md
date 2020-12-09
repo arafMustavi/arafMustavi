@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Bangla Optical Character Recognition
 - 💬 Ask me about Blockchain based use-case
 - 📫 How to reach me: arafmustavi@gmail.com
-- ⚡ Fun fact: I love to participate in competitions!
+- ⚡ Fun fact: I love to participate in competitions! Obsessed with CTF right now
 - 2020 Goals: Build a bangla OCR
 
 <!--
