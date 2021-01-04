@@ -1,14 +1,14 @@
 ### Hi there 👋 
 ## I'm Araf Mustavi 
-### An undergrad student of Computer Science and Engineering from BUET
+### An almost graduate student of Computer Science and Engineering from BUET
 - 🔭 I’m currently working on building a game in Unity 
-- 🌱 I’m currently learning Quantum Computing basics from Qiskit and AR-VR Development!
+- 🌱 I’m currently learning Speech Recognition and Sentiment analysis techniques | Quantum Computing basics from Qiskit | AR-VR Development!
 - 👯 I’m looking to collaborate on Data Science Competitions. Attending courses on World Quant University
 - 🤔 I’m looking for help with Bangla Optical Character Recognition
 - 💬 Ask me about Blockchain based use-case
 - 📫 How to reach me: arafmustavi@gmail.com
-- ⚡ Fun fact: I love to participate in competitions! Obsessed with CTF right now
-- 2020 Goals: Build a bangla OCR
+- ⚡ Fun fact: I love to participate in competitions! Obsessed with CTF right now at CTFlearn.com and CTFtime.org
+- 2021 Goals: Build a Gamification Based Human Behaviour Analysis Tool
 
 <!--
 **arafMustavi/arafMustavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
