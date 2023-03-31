@@ -1,14 +1,15 @@
 ### Hi there 👋 
 ## I'm Araf Mustavi 
-### A Computer Science and Engineering graduate from BUET
-- 🔭 I’m currently working on building a game in Unity and Mixed Reality using Microsoft StereoKit
-- 🌱 I’m currently learning Speech Recognition and Sentiment analysis techniques | Quantum Computing basics from Qiskit | AR-VR Development | Robotic Process Automation!
-- 👯 I’m looking to collaborate on Data Science Competitions. Attending courses on World Quant University
-- 🤔 I’m looking for help with Bangla Optical Character Recognition
-- 💬 Ask me about Blockchain based use-case
+### Operations Tech Product Analyst at British American Tobacco | A Computer Science and Engineering graduate from BUET
+- 😄 Pronouns: He/Him
+- - 🔭 I’m currently working on building an Automation Pipeline using Scripting Language and Business Intelligence extractin from Customer Data in Power BI
+- 🌱 I’m currently learning Project & Product Management | Business Intelligence & Analytics techniques | Automation using Scripting Language !
+- 👯 I’m looking to collaborate on Data Science Competitions.
+- 🤔 I’m looking for help with VBScript, Power BI & Data Visualization Techniques
+- 💬 Ask me about RPA, Computer Vision, Blockchain based use-case
 - 📫 How to reach me: arafmustavi@gmail.com
 - ⚡ Fun fact: I love to participate in competitions! Obsessed with CTF right now at CTFlearn.com and CTFtime.org
-- 2022 Goals: Build a Gamification Based Human Behaviour Analysis Tool
+- 2023 Goals: Learn web development and build a reinforcement learning enabled online AI snake game
 
 <!--
 **arafMustavi/arafMustavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - Currently working on 
 - Learning 
 - Love to participate in competitions
-- 2020 Goals: Build a bangla OCR
+- Current Year Goals: 
 -->
 
 
@@ -28,9 +29,14 @@ Here are some ideas to get you started:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
+---
+[instagram]: https://instagram.com/arafmustavi/
+[linkedin]: https://linkedin.com/in/arafMustavi/
+
 <!--
 ### Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -48,12 +54,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 -->
-<br />
-<br />
-
----
-
-
-
-[instagram]: https://instagram.com/arafmustavi/
-[linkedin]: https://linkedin.com/in/arafMustavi/
