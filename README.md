@@ -9,9 +9,9 @@
 - 💬 Ask me about RPA, Computer Vision, Blockchain based use-case
 - 📫 How to reach me: arafmustavi@gmail.com
 - ⚡ Fun fact: I love to participate in competitions! Obsessed with CTF right now at CTFlearn.com and CTFtime.org
-- 2023 Goals: Learn web development and build a reinforcement learning enabled online AI snake game
 
 <!--
+- 2025 Goals: Develop a News Scraping Tool
 **arafMustavi/arafMustavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
